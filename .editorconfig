@@ -13,3 +13,5 @@ trim_trailing_whitespace = false
 
 [*.{yml,yaml}]
 indent_size = 2
+
+https://novay.github.io/blog/2014/04/16/implementasi-relasi-di-laravel-dengan-eloquent/
